@@ -1,5 +1,5 @@
 *.csv
 *.yml
-phase*requirements.txt
+*.txt
 
 !branch_split.yml
